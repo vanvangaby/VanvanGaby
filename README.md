@@ -10,6 +10,11 @@
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabriela-fernandes&layout=compact&langs_count=16&theme=radical" alt="Top Languages"/>
 </div>
 
+<div align="center">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vanvangaby&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Vanessa's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vanvangaby&layout=compact&langs_count=16&theme=radical" alt="Vanessa's Top Languages"/>
+</div>
+
 ---
 
 <!-- Seção de Habilidades -->
@@ -59,3 +64,4 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </p>
+
